@@ -2,7 +2,7 @@
 # Objective
 - To develop a machine learning model that can predict whether a person has diabetes based on medical parameters.
 ***DataSource:"https://github.com/roshni-1/Diabetes_prediction/blob/main/diabetes_data_upload.csv"***
-#Problem Statement
+# Problem Statement
 - Diabetes is a chronic disease that requires early detection for effective management. This project aims to develop a machine learning model that predicts diabetes based on health parameters, enabling faster and more accurate diagnosis to support healthcare decision-making.
 # steps Perform
 1.Data collection & preprocessing
